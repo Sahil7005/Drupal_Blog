@@ -1,8 +1,7 @@
 global-styling:
   version: VERSION
   css:
-    theme/css/slick/slick.css: {} 
-    theme/css/slick/slick-theme.css: {} 
+  
     base:
       css/base/fonts.css: {}
       css/base/variables.css: {}
@@ -50,6 +49,8 @@ global-styling:
       css/components/table.css: {}
       css/components/text-content.css: {}
       css/components/wide-content.css: {}
+      theme/css/slick/slick.css: {} 
+      theme/css/slick/slick-theme.css: {} 
 
   js:
     js/checkbox.js: {}
